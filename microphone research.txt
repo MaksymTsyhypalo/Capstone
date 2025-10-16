@@ -10,7 +10,7 @@ Microphones for that option:
 cost: about 160 PLN
 
 range:
-quiet enviroment (30dB) -> 80-100 m
+quiet enviroment (30dB) -> 80 m
 medium (45dB) -> 30 m
 city (55dB) -> 5-10 m
 
@@ -23,8 +23,8 @@ broadband noise → for distinguishing from birds or vehicles.
 cost: about 100 PLN
 
 range:
-quiet enviroment (30dB) -> 80 m
-medium (45dB) -> 30 m
+quiet enviroment (30dB) -> 60 m
+medium (45dB) -> 20 m
 city (55dB) -> 5 m
 
 It gives you a clean, full-range capture of drone frequencies.
@@ -39,8 +39,9 @@ Adafruit MAX4466 Electret Microphone Amplifier -> jack cable -> patchbay
 Costs: about 50 PLN
 
 range:
-quiet enviroment (30dB) -> 80 m
-medium (40dB) -> 30 m
+quiet enviroment (30dB) -> 50 m
+medium (40dB) -> 20 m
 
 city (55dB) -> 5 m
+
 
