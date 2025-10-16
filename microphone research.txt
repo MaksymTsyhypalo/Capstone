@@ -14,6 +14,9 @@ range:
 quiet environment (30 dB) → 80 m
 medium (45 dB) → 20 m
 city (55 dB) → 6 m
+
++ Very directional and sensitive, ideal for long-range drone detection.
+– Expensive and needs precise aiming to be effective.
 ------------------Superlux PRA383D XLR----------------------
 cost: about 250PLN
 
@@ -21,6 +24,9 @@ range:
 quiet environment (30 dB) → 60 m
 medium (45 dB) → 25 m
 city (55 dB) → 8 m
+
++ Good balance between price and directionality.
+– Still limited range and higher self-noise than premium models.
 -------------Behringer C-2-----------------<-(preferred)
 cost: about 160 PLN
 
@@ -29,6 +35,8 @@ quiet enviroment (30dB) -> 50 m
 medium (45dB) -> 30 m
 city (55dB) -> 5-10 m
 
++ Captures full drone frequency spectrum for analysis and RPM estimation.
+– Not very directional, so localization accuracy is limited.
 -------------Behringer ECM8000-------------<-(preferred)
 cost: about 100 PLN
 
@@ -37,6 +45,8 @@ quiet enviroment (30dB) -> 40 m
 medium (45dB) -> 15 m
 city (55dB) -> 5 m
 
++ Flat frequency response ideal for acoustic spectrum measurement.
+– Omnidirectional pickup makes direction finding difficult.
 ______________(2 option)________________________
 
 Adafruit MAX4466 Electret Microphone Amplifier -> jack cable -> patchbay
@@ -47,8 +57,11 @@ Costs: about 50 PLN
 range:
 quiet enviroment (30dB) -> 30 m
 medium (40dB) -> 15 m
-
 city (55dB) -> 5 m
+
++ Very cheap and easy to integrate with custom electronics.
+– High noise floor and short effective range.
+
 
 
 
