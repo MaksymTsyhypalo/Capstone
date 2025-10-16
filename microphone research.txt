@@ -21,7 +21,7 @@ range:
 quiet environment (30 dB) → 60 m
 medium (45 dB) → 25 m
 city (55 dB) → 8 m
--------------Behringer C-2-----------------
+-------------Behringer C-2-----------------<-(preferred)
 cost: about 160 PLN
 
 range:
@@ -29,22 +29,13 @@ quiet enviroment (30dB) -> 50 m
 medium (45dB) -> 30 m
 city (55dB) -> 5-10 m
 
-Because the C-2 captures 20 Hz–20 kHz, it will record:
-the fundamental blade tones → for detecting presence and RPM,
-higher harmonics → for classifying drone type or model,
-broadband noise → for distinguishing from birds or vehicles.
-
--------------Behringer ECM8000-------------
+-------------Behringer ECM8000-------------<-(preferred)
 cost: about 100 PLN
 
 range:
 quiet enviroment (30dB) -> 40 m
 medium (45dB) -> 15 m
 city (55dB) -> 5 m
-
-It gives you a clean, full-range capture of drone frequencies.
-It uses industry-standard hardware (XLR, phantom power), so it integrates seamlessly with patch bays, mixers, and interfaces.
-
 
 ______________(2 option)________________________
 
@@ -58,6 +49,7 @@ quiet enviroment (30dB) -> 30 m
 medium (40dB) -> 15 m
 
 city (55dB) -> 5 m
+
 
 
 
