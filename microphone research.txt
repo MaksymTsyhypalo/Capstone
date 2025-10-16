@@ -8,7 +8,7 @@ Microphones for that option:
 
 
 ------------SYNCO D2 Shotgun XLR---------------------
-cost: about 300–400 PLN 
+cost: about 800 PLN 
 
 range:
 quiet environment (30 dB) → 90 m
@@ -58,6 +58,7 @@ quiet enviroment (30dB) -> 50 m
 medium (40dB) -> 20 m
 
 city (55dB) -> 5 m
+
 
 
 
