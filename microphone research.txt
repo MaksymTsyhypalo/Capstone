@@ -6,6 +6,15 @@ _____________________(1 option)___________________________
 [USB audio interface] ──(USB)──> [Computer]
 Microphones for that option:
 
+
+
+------------------Superlux PRA383D XLR----------------------
+cost: about 250PLN
+
+range:
+quiet environment (30 dB) → 100 m
+medium (45 dB) → 25 m
+city (55 dB) → 8 m
 -------------Behringer C-2-----------------
 cost: about 160 PLN
 
@@ -43,5 +52,6 @@ quiet enviroment (30dB) -> 50 m
 medium (40dB) -> 20 m
 
 city (55dB) -> 5 m
+
 
 
