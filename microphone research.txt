@@ -30,15 +30,6 @@ city (55dB) -> 12 m
 It gives you a clean, full-range capture of drone frequencies.
 It uses industry-standard hardware (XLR, phantom power), so it integrates seamlessly with patch bays, mixers, and interfaces.
 
---------------Behringer XM8500--------------------
-cost: about 80 PLN
-
-range:
-quiet enviroment (30dB) -> 150–200 m
-medium (40dB) -> 60–80 m
-city (55dB) -> 15–25 m
-
-The XM8500 captures 50 Hz – 15 kHz
 
 ______________(2 option)________________________
 
@@ -50,4 +41,5 @@ Costs: about 50 PLN
 range:
 quiet enviroment (30dB) -> 120 m
 medium (40dB) -> 50 m
+
 city (55dB) -> 9 m
