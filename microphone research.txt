@@ -11,21 +11,21 @@ Microphones for that option:
 cost: about 800 PLN 
 
 range:
-quiet environment (30 dB) → 90 m
+quiet environment (30 dB) → 80 m
 medium (45 dB) → 20 m
 city (55 dB) → 6 m
 ------------------Superlux PRA383D XLR----------------------
 cost: about 250PLN
 
 range:
-quiet environment (30 dB) → 80 m
+quiet environment (30 dB) → 60 m
 medium (45 dB) → 25 m
 city (55 dB) → 8 m
 -------------Behringer C-2-----------------
 cost: about 160 PLN
 
 range:
-quiet enviroment (30dB) -> 70 m
+quiet enviroment (30dB) -> 50 m
 medium (45dB) -> 30 m
 city (55dB) -> 5-10 m
 
@@ -38,8 +38,8 @@ broadband noise → for distinguishing from birds or vehicles.
 cost: about 100 PLN
 
 range:
-quiet enviroment (30dB) -> 60 m
-medium (45dB) -> 20 m
+quiet enviroment (30dB) -> 40 m
+medium (45dB) -> 15 m
 city (55dB) -> 5 m
 
 It gives you a clean, full-range capture of drone frequencies.
@@ -54,10 +54,11 @@ Adafruit MAX4466 Electret Microphone Amplifier -> jack cable -> patchbay
 Costs: about 50 PLN
 
 range:
-quiet enviroment (30dB) -> 50 m
-medium (40dB) -> 20 m
+quiet enviroment (30dB) -> 30 m
+medium (40dB) -> 15 m
 
 city (55dB) -> 5 m
+
 
 
 
